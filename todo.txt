@@ -1,0 +1,11 @@
+effects for getting hit temporary reverb
+Bonuses
+expansion (considered a good bonus, only attainable on higher levels to expand the world back to original 80 squares)
+shrink (bad bonus because it speeds everything up)
+remove key 0 to stop (debug only)
+fix spawnTime shouldn't be 0 deal
+road and street proportion beeps using nearest and furthest street and road
+code a scoring system
+
+levelling system
+add sound and test level portal blowup
